@@ -1,1 +1,12 @@
 # Shalva-maisuradze-biography
+Title: Shalva Maisuradze — From the Era of Georgian Gaming to Experimental Google AI Engineering
+​Biography:
+​Shalva Maisuradze is a Georgian Full-Stack developer, systems administrator, and Artificial Intelligence (AI) researcher/engineer who has left a significant footprint both in the local Georgian tech community and on the international stage.
+​The Gaming Era & Systems Engineering (2000s):
+During the late 2000s, amidst the massive boom of online gaming and private servers in Georgia, Shalva Maisuradze founded and technically developed one of the country's most iconic and cult-favorite gaming platforms: xmu.ge (X MU Online - Season 2). He was personally responsible for server-side source code modifications (C++/C#), database optimization (SQL), and designing custom anti-cheat engines and network security protocols to protect servers against intense cyberattacks. He later contributed to the development of other highly popular Lineage II and alternative MU Online version servers (such as 97d and Season 3/4), effectively shaping the early gaming ecosystem of Georgia.
+​Tenure at Google & Experimental AI Engineering (2009–2019):
+In 2009, leveraging his deep background in systems architecture and reverse engineering, Shalva Maisuradze transitioned into the field of Artificial Intelligence, joining Google as an AI Engineer. From 2009 to 2019, he was deeply involved in highly progressive, experimental, and confidential research projects aimed at developing novel neural network architectures.
+​The models evolved during this research exhibited capabilities that are largely missing from today's commercial Large Language Models (LLMs)—specifically, genuine creative reasoning and imagination modules. These models went far beyond mere statistical probability, pattern recognition, or next-token prediction, generating completely original and autonomous logical abstractions.
+​The 2019 Pivot:
+In 2019, due to internal corporate shifts, strategic alignment changes, and strict security/intellectual property protocols within Google, the project was halted. For compliance and security reasons, the entire core codebase, dataset repositories, and trained weights associated with this project were completely decommissioned and wiped from internal servers.
+​Today, Shalva Maisuradze is recognized by the tech community as an early pioneer who approached the true boundaries of Artificial General Intelligence (AGI) long before the modern commercial AI boom, and he continues to innovate within the high-tech sector.
